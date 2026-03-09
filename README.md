@@ -60,5 +60,3 @@ This means the model correctly predicts churn for about **82% of customers**.
 
 GitHub:  
 https://github.com/Mubarak-04
-
-## Project Structure
